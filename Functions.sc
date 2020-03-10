@@ -9,7 +9,7 @@
   	return(yz)
   }                                               //> uppercasecon: (xy: String)String
   
-  println(uppercasecon("mani"))                   //> MANI
+  println(uppercasecon("foo"))                   //> MANI
   
   var name :String = "mani"                       //> name  : String = mani
 
